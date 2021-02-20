@@ -9,4 +9,4 @@ Deployed Static website Endpoint at Amazon Web Service S3:
 
 `http://guess-my-number-zhiwen.com.s3-website-us-west-2.amazonaws.com`
 
-![Guess-My-Number] (https://github.com/zhiwen10/JavaScriptExercise/blob/main/Guess-My-Number-Zhiwen/Guess-My-Number-Zhiwen.png)
+![Guess-My-Number](https://github.com/zhiwen10/JavaScriptExercise/blob/main/Guess-My-Number-Zhiwen/Guess-My-Number-Zhiwen.png)
