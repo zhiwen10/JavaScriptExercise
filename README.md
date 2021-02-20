@@ -1,6 +1,6 @@
-## JavaScriptExercise
+# JavaScriptExercise
 
-# Guess-My-Number website exercise 
+## Guess-My-Number website exercise 
 
 Based on `The Complete JavaScript Course 2021: From Zero to Expert` from Udemy.com
 Course was created by Jonas Schmedtmann
